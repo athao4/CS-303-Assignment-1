@@ -1,3 +1,7 @@
+// A Chao Thao
+// CS-303 Assignment 1
+// 02/10/2023
+
 #include "array.h"
 
 int main() {
